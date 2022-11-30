@@ -1,0 +1,18 @@
+production:
+  theme_id:
+  api_key:
+  password:
+  store:
+  ignore_files:
+staging:
+  theme_id:
+  api_key:
+  password:
+  store:
+  ignore_files:
+development:
+  theme_id:
+  api_key:
+  password:
+  store:
+  ignore_files:
