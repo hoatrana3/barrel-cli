@@ -4,7 +4,7 @@
 
 If you are not sure how to get started with contributing, or have an issue, start by opening an [Issue](https://github.com/barrel/barrel-cli/issues).
 
-Provide enough details that will help the issue get visibility. 
+Provide enough details that will help the issue get visibility.
 
 - **What is the main issue?**
 - **How will this help the project?**
