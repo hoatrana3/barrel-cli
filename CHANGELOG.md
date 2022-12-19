@@ -1,5 +1,10 @@
 # Barrel cli changelog
 
+### v1.1.0-0 (03/24/21)
+- Serve assets using an absolute URL on localhost
+- Update HMR client
+- Enable split chunks in Webpack
+
 ### v1.0.8 (10/3/19)
 - Adds snippetOptions to browsersync config in watcher to fix new shopify issue
 

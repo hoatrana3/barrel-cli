@@ -1,6 +1,6 @@
 {
   "name": "@barrelny/cli",
-  "version": "1.0.8",
+  "version": "1.1.0-4",
   "description": "A build and deployment tool for the devs at Barrel",
   "main": "index.js",
   "bin": {
@@ -13,21 +13,21 @@
     "publish": "npm publish --access public"
   },
   "dependencies": {
-    "@shopify/themekit": "^1.1.9",
-    "browser-sync": "^2.24.6",
-    "chokidar": "^2.1.5",
+    "@shopify/themekit": "^0.6.12",
+    "browser-sync": "^2.26.7",
+    "chokidar": "^2.1.8",
     "colors": "^1.3.1",
-    "commander": "^2.16.0",
-    "fs-extra": "^7.0.1",
+    "commander": "^2.20.0",
+    "fs-extra": "^8.1.0",
     "glob-all": "^3.1.0",
-    "js-yaml": "^3.12.0",
+    "ip": "^1.1.5",
+    "js-yaml": "^3.13.1",
     "minimatch": "^3.0.4",
     "moment-timezone": "^0.5.21",
+    "portfinder-sync": "0.0.2",
     "shopify-node-api": "^1.8.0",
-    "webpack-dev-middleware": "^3.1.3",
-    "webpack-hot-middleware": "^2.22.3"
-  },
-  "peerDependencies": {
-    "webpack": "^4.16.4"
+    "webpack": "^4.46.0",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-hot-middleware": "^2.25.0"
   }
 }
